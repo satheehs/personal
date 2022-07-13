@@ -10,6 +10,7 @@ public class SatheeshBookMyShowApplication {
 
 		System.out.println(" Starting Booking Application");
 		SpringApplication.run(SatheeshBookMyShowApplication.class, args);
+		System.out.println(" Testing");
 	}
 
 }
