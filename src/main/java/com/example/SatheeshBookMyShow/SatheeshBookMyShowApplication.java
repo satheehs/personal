@@ -8,9 +8,9 @@ public class SatheeshBookMyShowApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println(" Starting Booking Application");
+		System.out.println(" Starting Booking Microservice");
 		SpringApplication.run(SatheeshBookMyShowApplication.class, args);
-		System.out.println(" Testing");
+
 	}
 
 }
